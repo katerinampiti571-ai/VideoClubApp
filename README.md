@@ -38,6 +38,10 @@ View and manage the movies you have saved as favorites.
 
 <img width="300" height="669" alt="Screenshot_20261019_195722" src="https://github.com/user-attachments/assets/7311b173-9cbb-4d32-889d-a7361577023d" /> <img width="300" height="669" alt="Screenshot 2026-10-19 at 7 54 25 PM" src="https://github.com/user-attachments/assets/dcd1288c-034a-45c5-9f89-b97a80db2acf" />
 
+## Error handling
+
+https://github.com/user-attachments/assets/46964b73-6aee-4fef-be1b-48ca91e69e36
+
 ## Technologies
 - Kotlin
 - Jetpack Compose
