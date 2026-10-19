@@ -1,11 +1,11 @@
-**VideoClub** is an Android movie discovery application built with Kotlin and Jetpack Compose.This project was created as part of my journey as a Junior Android Developer, with a focus on learning modern Android development practices and building a complete application from UI to data layer.
+**VideoClub** is an Android movie discovery application built with **Kotlin** and **Jetpack Compose**. This project was created as part of my journey as a Junior Android Developer, with a focus on learning modern Android development practices and building a complete application from UI to data layer.
 Users can discover popular movies, search for movies, view movie details, and save their favorite movies.
 
-**🎥 Demo**
+## Demo
 
 https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
 
-**✨ Features**
+## Features
 
 - 🎬 Browse popular movies
 - 🔎 Search for movies
@@ -16,23 +16,28 @@ https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
 - 📡 Offline access to cached data
 - ⚠️ Error handling and retry functionality
   
-**Home Screen**
+## Home Screen
 
-<img width="1280" height="2856" alt="Screenshot_20261019_171519" src="https://github.com/user-attachments/assets/52f2c938-3603-4490-8f2b-3185399bfa86" />
+Discover popular movies and browse through the latest movie collection.
 
-**Search Screen**
+<img width="300" height="669" alt="Screenshot_20261019_171519" src="https://github.com/user-attachments/assets/52f2c938-3603-4490-8f2b-3185399bfa86" />
 
-<img width="1280" height="2856" alt="Screenshot_20261019_182724" src="https://github.com/user-attachments/assets/8ad48c5e-0c15-4c3a-92fe-dab0c5db985a" /> <img width="1280" height="2856" alt="Screenshot_20261019_183306" src="https://github.com/user-attachments/assets/4774bd6a-8377-45be-a576-bdc972215688" />
+## Search Screen
+Search for movies by title and quickly find the movie you're looking for.
 
-**Details Sceen**
+<img width="300" height="669" alt="Screenshot_20261019_182724" src="https://github.com/user-attachments/assets/8ad48c5e-0c15-4c3a-92fe-dab0c5db985a" /> <img width="300" height="669" alt="Screenshot_20261019_183306" src="https://github.com/user-attachments/assets/4774bd6a-8377-45be-a576-bdc972215688" />
 
-<img width="1280" height="2856" alt="Screenshot_20261019_183430" src="https://github.com/user-attachments/assets/95a91017-c20f-43aa-9d63-af83deaf9582" />
+## Details Screen
+View detailed information about a movie, including its title, rating, overview, date release and poster.
 
-**Favorites Screen**
+<img width="300" height="669" alt="Screenshot_20261019_183430" src="https://github.com/user-attachments/assets/95a91017-c20f-43aa-9d63-af83deaf9582" />
 
-<img width="1280" height="2856" alt="Screenshot_20261019_183804" src="https://github.com/user-attachments/assets/7861f7da-a5b8-495e-a964-61e3fb17fec4" />
+## Favorites Screen
+View and manage the movies you have saved as favorites.
 
-**🛠️ Technologies**
+<img width="300" height="669" alt="Screenshot_20261019_183804" src="https://github.com/user-attachments/assets/7861f7da-a5b8-495e-a964-61e3fb17fec4" /> 
+
+## Technologies
 - Kotlin
 - Jetpack Compose
 - Coroutines & Flow
@@ -46,11 +51,11 @@ https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
 - JUnit
 - MockK
 
-**🏗️ Architecture**
+## Architecture
 
 The project follows **Clean Architecture**, separating the application into three main layers:
 
-**Presentation**
+## Presentation
 
 Responsible for the UI and user interaction.
 - Jetpack Compose
@@ -60,14 +65,14 @@ Responsible for the UI and user interaction.
 - SharedFlow
 - Navigation
   
-**Domain**
+## Domain
 
 Contains the application's business logic.
 - Use Cases
 - Repository interfaces
 - Domain models
   
-**Data**
+## Data
 
 Responsible for retrieving and storing data.
 - Retrofit
@@ -78,13 +83,17 @@ Responsible for retrieving and storing data.
   
 The application uses **MVI principles** for managing UI state and user interactions.
 
-**🌐 API**
+## API
 
-Movie information is provided by The Movie Database (TMDB) API.
+Movie information is provided by [The Movie Database TMDB API] (https://developer.themoviedb.org/docs/getting-started)
 
-🎨 UI Design
+## UI Design
+
 The application screens were designed in Figma and then implemented using Jetpack Compose.
-🧪 Testing
+
+<img width="300" height="237" alt="Screenshot 2026-10-19 at 7 35 46 PM" src="https://github.com/user-attachments/assets/e98e6fb3-52e0-4d82-a004-f9901f49d968" />
+
+## Testing
 The project includes unit tests for ViewModels using:
 - JUnit
 - MockK
