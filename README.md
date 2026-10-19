@@ -98,7 +98,7 @@ Movie information is provided by [The Movie Database TMDB API] (https://develope
 
 The application screens were designed in Figma and then implemented using Jetpack Compose.
 
-<img width="300" height="237" alt="Screenshot 2026-10-19 at 8 49 43 PM" src="https://github.com/user-attachments/assets/e457443a-9a4d-49f3-af97-6c3f78a79cf6" />
+<img width="500" height="347" alt="Screenshot 2026-10-19 at 8 49 43 PM" src="https://github.com/user-attachments/assets/e457443a-9a4d-49f3-af97-6c3f78a79cf6" />
 
 ## Testing
 The project includes unit tests for ViewModels using:
