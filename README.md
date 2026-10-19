@@ -40,6 +40,8 @@ View and manage the movies you have saved as favorites.
 
 ## Error handling
 
+The app handles network errors and unexpected failures by displaying an appropriate error message and allowing the user to retry the request.
+
 https://github.com/user-attachments/assets/46964b73-6aee-4fef-be1b-48ca91e69e36
 
 ## Technologies
