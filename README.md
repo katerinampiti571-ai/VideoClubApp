@@ -21,7 +21,7 @@ https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
 
 Discover popular movies and browse through the latest movie collection.
 
-<img width="300" height="669" alt="Screenshot_20261019_171519" src="https://github.com/user-attachments/assets/52f2c938-3603-4490-8f2b-3185399bfa86" />
+<img width="300" height="669" alt="Screenshot_20261019_171519" src="https://github.com/user-attachments/assets/52f2c938-3603-4490-8f2b-3185399bfa86" /> <img width="300" height="669" alt="Screenshot 2026-10-19 at 8 05 48 PM" src="https://github.com/user-attachments/assets/5c48a954-c1cb-4617-ba6b-9237b64d0181" />
 
 ## Search Screen
 Search for movies by title and quickly find the movie you're looking for.
