@@ -1,3 +1,4 @@
+
 **VideoClub** is an Android movie discovery application built with **Kotlin** and **Jetpack Compose**. This project was created as part of my journey as a Junior Android Developer, with a focus on learning modern Android development practices and building a complete application from UI to data layer.
 Users can discover popular movies, search for movies, view movie details, and save their favorite movies.
 
@@ -7,14 +8,14 @@ https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
 
 ## Features
 
-- 🎬 Browse popular movies
-- 🔎 Search for movies
-- 📄 View movie details
-- ❤️ Add and remove favorite movies
-- 📑 Pagination for loading movies
-- 💾 Local movie storage with Room
-- 📡 Offline access to cached data
-- ⚠️ Error handling and retry functionality
+- Browse popular movies
+- Search for movies
+- View movie details
+- Add and remove favorite movies
+- Pagination for loading movies
+- Local movie storage with Room
+- Offline access to cached data
+- Error handling and retry functionality
   
 ## Home Screen
 
@@ -35,7 +36,7 @@ View detailed information about a movie, including its title, rating, overview, 
 ## Favorites Screen
 View and manage the movies you have saved as favorites.
 
-<img width="300" height="669" alt="Screenshot_20261019_183804" src="https://github.com/user-attachments/assets/7861f7da-a5b8-495e-a964-61e3fb17fec4" /> 
+<img width="300" height="669" alt="Screenshot_20261019_195722" src="https://github.com/user-attachments/assets/7311b173-9cbb-4d32-889d-a7361577023d" /> <img width="300" height="669" alt="Screenshot 2026-10-19 at 7 54 25 PM" src="https://github.com/user-attachments/assets/dcd1288c-034a-45c5-9f89-b97a80db2acf" />
 
 ## Technologies
 - Kotlin
