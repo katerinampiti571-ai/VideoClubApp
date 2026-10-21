@@ -92,7 +92,7 @@ The application uses **MVI principles** for managing UI state and user interacti
 
 ## API
 
-Movie information is provided by [The Movie Database TMDB API] (https://developer.themoviedb.org/docs/getting-started)
+Movie information is provided by [The Movie Database TMDB API](https://developer.themoviedb.org/docs/getting-started)
 
 ## UI Design
 
@@ -105,6 +105,7 @@ The project includes unit tests for ViewModels using:
 - JUnit
 - MockK
 - Kotlin Coroutines Test
+  
 Tests cover scenarios such as:
 - UI state changes
 - Pagination
