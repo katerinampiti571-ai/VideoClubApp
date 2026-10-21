@@ -4,7 +4,7 @@ Users can discover popular movies, search for movies, view movie details, and sa
 
 ## Demo
 
-https://github.com/user-attachments/assets/4804def0-ba5e-4bc6-be71-f82fa0cd8742
+https://github.com/user-attachments/assets/20a03f72-5e1e-48bf-bfe8904c1aafee7f
 
 ## Features
 
